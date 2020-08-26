@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/pdsuthar10.github.io/static/css/main.93aa65f0.chunk.css",
-    "main.js": "/pdsuthar10.github.io/static/js/main.bdad10f0.chunk.js",
-    "main.js.map": "/pdsuthar10.github.io/static/js/main.bdad10f0.chunk.js.map",
-    "runtime-main.js": "/pdsuthar10.github.io/static/js/runtime-main.87d16936.js",
-    "runtime-main.js.map": "/pdsuthar10.github.io/static/js/runtime-main.87d16936.js.map",
-    "static/js/2.24a1acfb.chunk.js": "/pdsuthar10.github.io/static/js/2.24a1acfb.chunk.js",
-    "static/js/2.24a1acfb.chunk.js.map": "/pdsuthar10.github.io/static/js/2.24a1acfb.chunk.js.map",
-    "index.html": "/pdsuthar10.github.io/index.html",
-    "precache-manifest.e3c84f8610a967a98a00027cbfee8ab1.js": "/pdsuthar10.github.io/precache-manifest.e3c84f8610a967a98a00027cbfee8ab1.js",
-    "service-worker.js": "/pdsuthar10.github.io/service-worker.js",
-    "static/css/main.93aa65f0.chunk.css.map": "/pdsuthar10.github.io/static/css/main.93aa65f0.chunk.css.map",
-    "static/js/2.24a1acfb.chunk.js.LICENSE.txt": "/pdsuthar10.github.io/static/js/2.24a1acfb.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/pdsuthar10.github.io/static/media/back.f3726bcc.jpg",
-    "static/media/loader.gif": "/pdsuthar10.github.io/static/media/loader.de50e2e9.gif"
+    "main.css": "/pdsuthar.github.io/static/css/main.21e84dff.chunk.css",
+    "main.js": "/pdsuthar.github.io/static/js/main.60bef85b.chunk.js",
+    "main.js.map": "/pdsuthar.github.io/static/js/main.60bef85b.chunk.js.map",
+    "runtime-main.js": "/pdsuthar.github.io/static/js/runtime-main.b548aa22.js",
+    "runtime-main.js.map": "/pdsuthar.github.io/static/js/runtime-main.b548aa22.js.map",
+    "static/js/2.24a1acfb.chunk.js": "/pdsuthar.github.io/static/js/2.24a1acfb.chunk.js",
+    "static/js/2.24a1acfb.chunk.js.map": "/pdsuthar.github.io/static/js/2.24a1acfb.chunk.js.map",
+    "index.html": "/pdsuthar.github.io/index.html",
+    "precache-manifest.758f959bbaa9d681a04b995c832d91db.js": "/pdsuthar.github.io/precache-manifest.758f959bbaa9d681a04b995c832d91db.js",
+    "service-worker.js": "/pdsuthar.github.io/service-worker.js",
+    "static/css/main.21e84dff.chunk.css.map": "/pdsuthar.github.io/static/css/main.21e84dff.chunk.css.map",
+    "static/js/2.24a1acfb.chunk.js.LICENSE.txt": "/pdsuthar.github.io/static/js/2.24a1acfb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pdsuthar.github.io/static/media/back.f3726bcc.jpg",
+    "static/media/loader.gif": "/pdsuthar.github.io/static/media/loader.de50e2e9.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.87d16936.js",
+    "static/js/runtime-main.b548aa22.js",
     "static/js/2.24a1acfb.chunk.js",
-    "static/css/main.93aa65f0.chunk.css",
-    "static/js/main.bdad10f0.chunk.js"
+    "static/css/main.21e84dff.chunk.css",
+    "static/js/main.60bef85b.chunk.js"
   ]
 }
