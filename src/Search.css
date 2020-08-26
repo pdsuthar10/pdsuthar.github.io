@@ -1,0 +1,21 @@
+.results-container{
+    padding: 5px 10px;
+    background-color: white;
+    flex: 1;
+    margin: 10px;
+    width: auto;
+}
+
+.nominations-container{
+    flex: 1;
+    background-color: white;
+    padding: 5px 10px;
+    margin: 10px;
+    width: auto;
+}
+
+.errorMessage{
+    color: white;
+    padding-top: 5%;
+    font-weight: bold;
+}
