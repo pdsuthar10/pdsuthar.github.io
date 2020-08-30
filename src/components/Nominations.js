@@ -3,6 +3,9 @@ import { Button } from 'react-bootstrap'
 import { deleteNominee } from '../actions/deleteNominee'
 import { connect } from 'react-redux';
 
+const buttonStyle = {
+    borderRadius: "30px"
+}
 class Nominations extends Component {
 
     handleOnClick = (e) =>{
@@ -13,7 +16,7 @@ class Nominations extends Component {
         return (
             <div style={{display:"flex", padding:"10px 10px"}}>
                 <li>{this.props.movie.Title}{" ("+this.props.movie.Year+")"}</li>&nbsp;
-                <Button variant="secondary" size="sm" onClick={this.handleOnClick}>Remove</Button>          
+                <Button style={{buttonStyle}} variant="secondary" size="sm" onClick={this.handleOnClick}>Remove</Button>          
             </div>
         )
     }

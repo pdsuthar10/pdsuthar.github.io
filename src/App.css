@@ -25,13 +25,13 @@
 }
 
 .App .pageHeading{
-  /* style={{padding:"10px", margin:"0",width: "auto"} */
-  padding: 10px;
+  padding-top: 40px;
   margin: 0;
   width: auto;
   letter-spacing: 5px;
   color: white;
   font-weight: bold;
+
 }
 
 .App-link {

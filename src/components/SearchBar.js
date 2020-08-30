@@ -27,7 +27,7 @@ class SearchBar extends Component {
     }
 
     fetchResults = (search) =>{
-        const url = `http://www.omdbapi.com/?apikey=9c54a82a&s=${search}`
+        const url = `https://www.omdbapi.com/?apikey=9c54a82a&s=${search}`
 
         if (this.cancel) {
             // Cancel the previous request before making a new request
@@ -130,7 +130,7 @@ class SearchBar extends Component {
 
 
                 {/*Form for Movie Search*/}
-                <div style={{padding:"0 20%", margin: "0", width:"auto"}}> 
+                <div style={{padding:"0 20%", margin: "0", width:"auto", borderRadius: "35px"}}> 
                         <Col>
                         <Form onSubmit={this.handleSubmit}>
                             <InputGroup className="mb-4">
