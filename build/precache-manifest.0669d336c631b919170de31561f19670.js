@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69a468ffc2113e34cbfc9d40ebd29ef1",
+    "revision": "fcec8674cf4c3ef1b4ea17bb70784133",
     "url": "/pdsuthar.github.io/index.html"
   },
   {
-    "revision": "772ca7158869f41b6c09",
-    "url": "/pdsuthar.github.io/static/css/main.21e84dff.chunk.css"
+    "revision": "9f558e8f7a2edc6505e8",
+    "url": "/pdsuthar.github.io/static/css/main.79f9811c.chunk.css"
   },
   {
     "revision": "4ee643ba0c7a1ffb2988",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdsuthar.github.io/static/js/2.24a1acfb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "772ca7158869f41b6c09",
-    "url": "/pdsuthar.github.io/static/js/main.ffa19f49.chunk.js"
+    "revision": "9f558e8f7a2edc6505e8",
+    "url": "/pdsuthar.github.io/static/js/main.a62b3b0a.chunk.js"
   },
   {
     "revision": "70eb3cd9bbaf45743849",
