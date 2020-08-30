@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pdsuthar.github.io/static/css/main.21e84dff.chunk.css",
-    "main.js": "/pdsuthar.github.io/static/js/main.ffa19f49.chunk.js",
-    "main.js.map": "/pdsuthar.github.io/static/js/main.ffa19f49.chunk.js.map",
+    "main.css": "/pdsuthar.github.io/static/css/main.79f9811c.chunk.css",
+    "main.js": "/pdsuthar.github.io/static/js/main.a62b3b0a.chunk.js",
+    "main.js.map": "/pdsuthar.github.io/static/js/main.a62b3b0a.chunk.js.map",
     "runtime-main.js": "/pdsuthar.github.io/static/js/runtime-main.b548aa22.js",
     "runtime-main.js.map": "/pdsuthar.github.io/static/js/runtime-main.b548aa22.js.map",
     "static/js/2.24a1acfb.chunk.js": "/pdsuthar.github.io/static/js/2.24a1acfb.chunk.js",
     "static/js/2.24a1acfb.chunk.js.map": "/pdsuthar.github.io/static/js/2.24a1acfb.chunk.js.map",
     "index.html": "/pdsuthar.github.io/index.html",
-    "precache-manifest.a5cbfae18e22ab8a37f35d5b06de1265.js": "/pdsuthar.github.io/precache-manifest.a5cbfae18e22ab8a37f35d5b06de1265.js",
+    "precache-manifest.0669d336c631b919170de31561f19670.js": "/pdsuthar.github.io/precache-manifest.0669d336c631b919170de31561f19670.js",
     "service-worker.js": "/pdsuthar.github.io/service-worker.js",
-    "static/css/main.21e84dff.chunk.css.map": "/pdsuthar.github.io/static/css/main.21e84dff.chunk.css.map",
+    "static/css/main.79f9811c.chunk.css.map": "/pdsuthar.github.io/static/css/main.79f9811c.chunk.css.map",
     "static/js/2.24a1acfb.chunk.js.LICENSE.txt": "/pdsuthar.github.io/static/js/2.24a1acfb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/pdsuthar.github.io/static/media/back.f3726bcc.jpg",
     "static/media/loader.gif": "/pdsuthar.github.io/static/media/loader.de50e2e9.gif"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b548aa22.js",
     "static/js/2.24a1acfb.chunk.js",
-    "static/css/main.21e84dff.chunk.css",
-    "static/js/main.ffa19f49.chunk.js"
+    "static/css/main.79f9811c.chunk.css",
+    "static/js/main.a62b3b0a.chunk.js"
   ]
 }
